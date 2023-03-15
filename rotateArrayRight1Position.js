@@ -1,3 +1,5 @@
+// Rotate an array to the right 1 position
+
 const rotateArray = (arr) => {
     const last = arr.pop();
 
